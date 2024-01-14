@@ -1,2 +1,1 @@
-# sinfronteras
-miniproyectos-python
+# Python Mini Proyects
